@@ -10,6 +10,9 @@ Notes:
 -These files have already been prepped & ready for deployment.
 -Tutorial explains process - http://truffleframework.com/tutorials/pet-shop
 
+Pre:
+Clone project from - https://github.com/CadiDadi/petshop-Hackital.git
+
 Steps:
 1. open Ganache program
 2. truffle compile
