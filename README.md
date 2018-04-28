@@ -7,8 +7,8 @@ Required Installs:
 4. MetaMask - Addon in Chrome or Firefox
 
 Notes:
--These files have already been prepped & ready for deployment.
--Tutorial explains process - http://truffleframework.com/tutorials/pet-shop
+1. These files have already been prepped & ready for deployment.
+2. Tutorial explains process - http://truffleframework.com/tutorials/pet-shop
 
 Pre:
 Clone project from - https://github.com/CadiDadi/petshop-Hackital.git
